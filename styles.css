@@ -584,6 +584,9 @@ body{
 }
 
 @media (max-width:447px){
+    .navbar{
+        height: 100px;
+    }
     .logo_container{
         width: 125px;
         position: absolute;
